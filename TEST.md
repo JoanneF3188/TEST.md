@@ -18,7 +18,7 @@ _by Joanne Fung_
 When git is first initialized on your local such as [Cloud9](https://c9.io) or [Nitrous](https://nitrous.io), you first need to:
 
 1. Create a repository on [GitHub](https://github.com)  
-![Revolving Star](gold-star-animation9.gif =100x)_MAKE SURE THAT YOU NAME IT THE **EXACT** SAME NAME AS THE FILE NAME IS IN YOUR LOCAL_
+![Revolving Star](gold-star-animation9.gif = 100x50)_MAKE SURE THAT YOU NAME IT THE **EXACT** SAME NAME AS THE FILE NAME IS IN YOUR LOCAL_
 
 ---
 ## Repository Setup
